@@ -1,4 +1,4 @@
-# Proyecto – Sistema de Reservas Parque Berlín
+ro# Proyecto – Sistema de Reservas Parque Berlín
 
 **Autoras:**  
 Danna Gabriela Rojas Bernal  
@@ -57,7 +57,7 @@ El archivo debe:
   López,9,4
   Gómez,11,3
 
-- El repositorio incluye **6 archivos de prueba** con diferentes combinaciones de reserva.
+- El repositorio incluye **6 archivos de prueba** con diferentes combinaciones de reserva. Dentro de este repositorio estan en la carpeta **Pruebas** pero para ejecutar no deben estar dentro de dicha carpeta, deben estar al igual que el Makefile.
 
 ---
 
