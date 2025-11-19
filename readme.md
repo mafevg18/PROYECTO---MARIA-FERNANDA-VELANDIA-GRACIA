@@ -1,8 +1,8 @@
 ro# Proyecto – Sistema de Reservas Parque Berlín
 
 **Autoras:**  
-Danna Gabriela Rojas Bernal  
 María Fernanda Velandia Gracia
+Danna Gabriela Rojas Bernal  
 
 **Materia:** Sistemas Operativos  
 **Tema:** Sincronización, procesos, hilos y comunicación con Pipes en C
